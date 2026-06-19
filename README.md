@@ -1,3 +1,4 @@
+<img width="1915" height="962" alt="CustomerAI" src="https://github.com/user-attachments/assets/c41064af-0deb-41d1-8962-c4913f4ade82" />
 # Customer Support Intelligence (LLM-Powered Support Agent)
 
 An AI-powered customer support assistant built with **Streamlit**, **OpenAI**, and a modular Python backend.  
