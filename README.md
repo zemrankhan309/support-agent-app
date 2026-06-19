@@ -91,6 +91,10 @@ Streamlit
 
 OpenAI
 
+<img width="1915" height="962" alt="image" src="https://github.com/user-attachments/assets/320f6a24-5158-4c93-8a4c-9f570da80eff" />
+
+
+
 Python community
 
 
